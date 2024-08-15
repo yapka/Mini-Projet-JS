@@ -9,7 +9,7 @@ Ce projet est une application de cartographie interactive utilisant Leaflet.js, 
    - La carte est initialisée à un niveau de zoom approprié pour une vue d'ensemble de la ville.
 
 2. **Ajout de Marqueurs :**
-   - Ajout de marqueurs représentant au moins cinq points d'intérêt tels que des écoles, des hôpitaux, des parcs, etc.
+   - Ajout de marqueurs représentant au moins cinq points d'intérêt tels que des écoles, des hôpitaux et les villages.
    - Chaque marqueur affiche un pop-up contenant des informations sur le point d'intérêt.
 
 3. **Utilisation de Turf.js :**
