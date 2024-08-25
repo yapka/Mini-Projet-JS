@@ -2,6 +2,8 @@
 
 Ce projet est une application de cartographie interactive utilisant Leaflet.js, Turf.js et l'API OpenWeatherMap pour afficher des points d'intérêt de Tiebissou. L'application affiche également les conditions météorologiques actuelles pour chaque point d'intérêt.
 
+![Texte Alternatif](img/font.png)
+
 ## Fonctionnalités
 
 1. **Initialisation de la Carte :**
